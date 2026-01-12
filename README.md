@@ -1,6 +1,18 @@
 # shiny-memory-hardware
 Personalized Dual-Trackball Foldable Split Keyboard Hardware
 
+![unfolded](images/unfolded.jpg)
+
+![folded](images/folded.jpg)
+
+![full_shot](images/full_shot.jpg)
+
+---
+
+## BOM
+
+todo
+
 ---
 © 2026 Quasimorphism
 
